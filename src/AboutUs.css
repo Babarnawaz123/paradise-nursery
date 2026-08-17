@@ -1,0 +1,19 @@
+.about-us-container {
+  color: #ffffff;
+  line-height: 1.6;
+}
+
+.about-us-heading {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: 25px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.about-us-content {
+  font-size: 1.05rem;
+  margin-bottom: 18px;
+  color: #f0f0f0;
+  text-align: justify;
+}
